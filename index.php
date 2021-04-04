@@ -43,7 +43,19 @@
                         <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</a></li>
                     </ul>
                     <ul>
-                        <li><a href="exercicio.php?dir=tipos&file=float">Aritmeticas</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=aritmeticas">Aritmeticas</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=desafioPrecedencia">Precedência</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=string">Strings</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=string_php">Desafio String</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=tipos&file=booleano">Booleanos</a></li>
                     </ul>
                 </div>
             </nav>
