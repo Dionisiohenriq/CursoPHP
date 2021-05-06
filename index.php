@@ -58,6 +58,39 @@
                         <li><a href="exercicio.php?dir=tipos&file=booleano">Booleanos</a></li>
                     </ul>
                 </div>
+                <div class="modulo azul">
+                <h3>Variáveis</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=basico">Básico</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=constantes">Constantes</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Desafio Variáveis</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor por Referência</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis Variáveis</a></li>
+                    </ul>
+                </div>
+                <div class="modulo pink">
+                    <h3>Controle</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=if_else">If else</a></li>
+                    </ul>    
+                </div>
             </nav>
         </div>
     </main>
