@@ -89,7 +89,10 @@
                     <h3>Controle</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=controle&file=if_else">If else</a></li>
-                    </ul>    
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Op. Relacionais</a></li>
+                    </ul>      
                 </div>
             </nav>
         </div>
